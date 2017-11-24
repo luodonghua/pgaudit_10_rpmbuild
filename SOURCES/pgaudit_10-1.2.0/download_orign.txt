@@ -1,0 +1,1 @@
+git clone -b REL_10_STABLE https://github.com/pgaudit/pgaudit.git
