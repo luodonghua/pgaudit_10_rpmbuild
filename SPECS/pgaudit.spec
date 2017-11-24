@@ -53,7 +53,7 @@ install -m 644 README.md %{buildroot}%{pginstdir}/doc/extension/README-%{sname}.
 %{pginstdir}/share/extension/%{sname}.control
 
 %changelog
-* Thu Nov 24 2017 - Luo Donghua <donghua@ncs.com.sg> 1.2.0-1
+* Thu Nov 24 2017 - Luo Donghua <luodonghua@gmail.com> 1.2.0-1
 - Update to 1.2.0 to support postgresql 10
 
 * Thu Oct 27 2016 - Devrim Gündüz <devrim@gunduz.org> 1.0.0-1
